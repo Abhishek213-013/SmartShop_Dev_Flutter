@@ -1,14 +1,36 @@
 # 🛍️ Smart Shop – E-Commerce App Using Flutter
 
-Smart Shop is a modern, feature-rich e-commerce mobile application built using **Flutter**. It provides a sleek UI, smooth user experience, and interacts with the **FakeStore API** to show live product listings. This app covers everything from authentication to shopping cart, favorites, dark mode, and product category filtering.
+A Flutter-based e-commerce mobile application featuring user authentication, product browsing, cart management, favorites, and theming support.
+Project Overview
+
+Smart Shop is a modern, user-friendly shopping app built with Flutter and Provider state management. It includes:
+
+    Splash screen with app logo
+
+    User login and registration with validation
+
+    Product listing and details
+
+    Shopping cart functionality
+
+    Favorite products management
+
+    Light and dark theme support
+
+    Persistent login state using shared preferences (optional)
+
+    Clean architecture with separation of concerns
+
+
 
 ---
 
 ## 📸 Screenshots
 
-### 🔐 Splash, Login & Sign Up Screens
+### 🔐 Splash, Login Screens
 
-![Splash, Login, SignUp](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design.png)
+![Splash](https://raw.githubusercontent.com/Abhishek213-013/SmartShop_Dev_Flutter/tree/main/assets/splash_screen.jpg)
+![Splash](https://raw.githubusercontent.com/Abhishek213-013/SmartShop_Dev_Flutter/tree/main/assets/login.jpg)
 
 ---
 
