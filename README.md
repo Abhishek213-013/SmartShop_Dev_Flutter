@@ -22,6 +22,8 @@ Smart Shop is a modern, user-friendly shopping app built with Flutter and Provid
 
     Clean architecture with separation of concerns
 
+# 📸 Screenshots
+# 🔐 Splash, Login & Sign Up Screens
 
 
 Features
@@ -40,72 +42,6 @@ Features
 
     Error Handling: Displays validation and login error messages clearly.
 
-Getting Started
-Prerequisites
-
-    Flutter SDK (>= 3.0.0)
-
-    Dart SDK
-
-    Android Studio / VS Code or your preferred IDE
-
-    Connected device or emulator
-
-Setup
-
-    Clone the repository:
-
-git clone https://github.com/Abhishek213-013/SmartShop_Dev_Flutter.git
-cd SmartShop_Dev_Flutter
-
-Install dependencies:
-
-flutter pub get
-
-Add assets
-
-Make sure the following assets are in the assets/ folder and declared in pubspec.yaml:
-
-    app_logo.png
-
-    login_bg.png
-
-    logo.png (for splash screen)
-
-Run the app:
-
-    flutter run
-
-Folder Structure Details
-
-    core/: Contains app constants, theme definitions (light/dark), and utility functions such as validators.
-
-    models/: Contains data classes for users, products, and cart items.
-
-    providers/: Implements the state management logic using ChangeNotifier for different app modules.
-
-    services/: Responsible for API calls and authentication logic.
-
-    screens/: UI code separated by features (auth, home, cart, etc.).
-
-    routes/: Defines named routes and handles navigation.
-
-    storage/: Utility for persistent storage like SharedPreferences.
-
-Dependencies
-
-    flutter
-
-    provider
-
-    shared_preferences (if used)
-
-    Other packages as per pubspec.yaml
-
-License
-
-Specify your license here (e.g., MIT, Apache 2.0).
-Contact
 
 For questions or support, contact:
 
