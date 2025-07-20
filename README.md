@@ -1,49 +1,128 @@
-# SmartShop_Dev_Flutter
-Smart Shop
+# 🛍️ Smart Shop – E-Commerce App Using Flutter
 
-A Flutter-based e-commerce mobile application featuring user authentication, product browsing, cart management, favorites, and theming support.
-Project Overview
+Smart Shop is a modern, feature-rich e-commerce mobile application built using **Flutter**. It provides a sleek UI, smooth user experience, and interacts with the **FakeStore API** to show live product listings. This app covers everything from authentication to shopping cart, favorites, dark mode, and product category filtering.
 
-Smart Shop is a modern, user-friendly shopping app built with Flutter and Provider state management. It includes:
+---
 
-    Splash screen with app logo
+## 📸 Screenshots
 
-    User login and registration with validation
+### 🔐 Splash, Login & Sign Up Screens
 
-    Product listing and details
+![Splash, Login, SignUp](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design.png)
 
-    Shopping cart functionality
+---
 
-    Favorite products management
+### 🏠 Home, Favourites & Cart Screens
 
-    Light and dark theme support
+![Home, Favourite, Cart](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design%20(1).png)
 
-    Persistent login state using shared preferences (optional)
+---
 
-    Clean architecture with separation of concerns
+### 🌙 Dark Mode, Categories & Cart UI
 
-# 📸 Screenshots
-# 🔐 Splash, Login & Sign Up Screens
+![Dark Mode, Categories, Cart](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design%20(2).png)
 
+---
 
-Features
+## 🔧 Features
 
-    Splash Screen: Shows the app logo for 2-3 seconds at startup.
+- ✅ User Sign Up / Login with local storage
+- 🛍 Product Listing with images and prices
+- ❤️ Add & Remove Favourites
+- 🛒 Add to Cart & Quantity Updates
+- 🌙 Light / Dark Mode Toggle
+- 🧠 Product Sorting by:
+    - Price (Low to High, High to Low)
+    - Rating
+- 📂 Filter Products by Categories:
+    - 👜 Bag
+    - 👕 Cloth
+    - 💎 Jewellery
+    - 📱 Gadget
+- 🧑 Profile Section showing Name, Email & Join Date
+- 🔐 Secure Logout and Session Management
 
-    Login & Registration: User authentication with form validation.
+---
 
-    Theming: Support for light and dark themes using ThemeNotifier.
+## 🚀 Getting Started
 
-    State Management: Uses Provider for auth, product, cart, and favorites state.
+### 1. Clone the repository
+```bash
+git clone https://github.com/riad535/E-commerce-Using-Flutter.git
+cd E-commerce-Using-Flutter
+Install dependencies  "flutter pub get"
+Project Structure Highlights:
+lib/
+ ┣ models/
+ ┣ services/
+ ┣ providers/
+ ┣ screens/
+ ┣ widgets/
+ ┗ main.dart
+Author
+MD.Read Hasan
+https://github.com/riad535
+# 🛍️ Smart Shop – E-Commerce App Using Flutter
 
-    Routing: Centralized route management in app_routes.dart.
+Smart Shop is a modern, feature-rich e-commerce mobile application built using **Flutter**. It provides a sleek UI, smooth user experience, and interacts with the **FakeStore API** to show live product listings. This app covers everything from authentication to shopping cart, favorites, dark mode, and product category filtering.
 
-    Background Images: Customized backgrounds for splash and login screens.
+---
 
-    Error Handling: Displays validation and login error messages clearly.
+## 📸 Screenshots
 
+### 🔐 Splash, Login & Sign Up Screens
 
-For questions or support, contact:
+![Splash, Login, SignUp](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design.png)
 
-Your Name — abhishekchowdhury054@gmail.com
-GitHub: https://github.com/Abhishek213-013
+---
+
+### 🏠 Home, Favourites & Cart Screens
+
+![Home, Favourite, Cart](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design%20(1).png)
+
+---
+
+### 🌙 Dark Mode, Categories & Cart UI
+
+![Dark Mode, Categories, Cart](https://raw.githubusercontent.com/riad535/E-commerce-Using-Flutter/main/lib/assets/Untitled%20design%20(2).png)
+
+---
+
+## 🔧 Features
+
+- ✅ User Sign Up / Login with local storage
+- 🛍 Product Listing with images and prices
+- ❤️ Add & Remove Favourites
+- 🛒 Add to Cart & Quantity Updates
+- 🌙 Light / Dark Mode Toggle
+- 🧠 Product Sorting by:
+    - Price (Low to High, High to Low)
+    - Rating
+- 📂 Filter Products by Categories:
+    - 👜 Bag
+    - 👕 Cloth
+    - 💎 Jewellery
+    - 📱 Gadget
+- 🧑 Profile Section showing Name, Email & Join Date
+- 🔐 Secure Logout and Session Management
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/riad535/E-commerce-Using-Flutter.git
+cd E-commerce-Using-Flutter
+Install dependencies  "flutter pub get"
+Project Structure Highlights:
+lib/
+ ┣ models/
+ ┣ services/
+ ┣ providers/
+ ┣ screens/
+ ┣ widgets/
+ ┗ main.dart
+Author
+MD.Read Hasan
+https://github.com/riad535
