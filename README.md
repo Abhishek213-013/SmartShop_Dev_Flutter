@@ -29,8 +29,7 @@ Smart Shop is a modern, user-friendly shopping app built with Flutter and Provid
 
 ### 🔐 Splash, Login Screens
 
-![Splash](https://raw.githubusercontent.com/Abhishek213-013/SmartShop_Dev_Flutter/main/assets/splash_screen.jpg)
-![Login](https://raw.githubusercontent.com/Abhishek213-013/SmartShop_Dev_Flutter/main/assets/login.jpg)
+![Splash, Login](https://raw.githubusercontent.com/Abhishek213-013/SmartShop_Dev_Flutter/main/assets/picture-1.jpg)
 
 ---
 
